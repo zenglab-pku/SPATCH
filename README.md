@@ -1,8 +1,8 @@
 # SPATCH: SPAtial Transcriptomics resource for subCellular and High-throughput platforms
 
-## You can access our data online via: https://spatch.pku-genomics.org
-
 ---
+
+### You can access our data online via: https://spatch.pku-genomics.org
 
 ## Key points
 - Benchmarking of the most adavanced spatial transcriptomics technologies with subcellular resolution and large panel of genes.
